@@ -3,7 +3,7 @@
 
 * 2. JSON er bygget opp av nøkler og verdier, nøkkelen står til venstre og verdien står til høyre. Når jeg har laget lister og ordbøker har min kode vært bygget opp med nøkler og verdier.
 
-* 3. Forskjellen mellom JSON og Python er at JSON lagrer data 
+* 3. Forskjellen mellom JSON og Python er at JSON lagrer data og python leser og bruker dataen. 
 
 * 4. Jeg vet ikke hva forskjellen mellom JSON fil og API fil er fordi jeg ikke drev med API.
 
