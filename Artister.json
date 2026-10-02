@@ -1,0 +1,26 @@
+{
+             "Artister": [
+        {
+    
+            "navn": "Eminem",
+            "sjanger": "Rap", 
+            "Album": ["The Eminem show"],
+             "Debut": 1996
+        },
+        {
+             "navn": "Kanye West",
+             "sjanger": "Rap",
+             "Album": [ "Graduation" ],
+              "Debut": 2004
+        },
+        {
+              "navn": "Kendrick Lamar",
+              "sjanger": "Rap",
+              "Album": [ "section 80" ],
+               "Debut": 2011
+
+    }
+
+  ]  
+}
+
